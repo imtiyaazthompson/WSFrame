@@ -1,0 +1,2 @@
+# WSFrame
+A webscraper framework
